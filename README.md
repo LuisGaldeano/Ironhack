@@ -1,4 +1,4 @@
-![Logo de Ironhack](./img/Logo_Ironhack.png)
+![Logo de Ironhack](./img/ironhack.jpg)
 
 ## Repositorio de Laboratorios Personales del Bootcamp de Data Analytics
 
